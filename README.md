@@ -1,4 +1,4 @@
-# pycon2020
+# NLP in Python!
 Natural Language Processing (NLP) in Python tutorial given for PyCon 2020 remote conference.
 
 Link to video: https://youtu.be/vyOgWhwUmec
