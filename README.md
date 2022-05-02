@@ -35,7 +35,7 @@ Quick overview + code: https://www.geeksforgeeks.org/removing-stop-words-nltk-py
 
 ### Parts of speech
 TextBlob usage: https://textblob.readthedocs.io/en/dev/api_reference.html <br/>
-List of tags: https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html 
+List of tags: https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html<br>Categorizing and POS Tagging : https://www.learntek.org/blog/categorizing-pos-tagging-nltk-python/ 
 
 ### Transformers:
 Attention is all you need: https://arxiv.org/pdf/1706.03762.pdf <br/>
